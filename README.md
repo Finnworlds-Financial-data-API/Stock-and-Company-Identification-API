@@ -1,5 +1,5 @@
 
-<h1>Balance Sheet API - Finnworlds</h1>
+<h1>Stock and Company identification API - Finnworlds</h1>
 
 <p><a href="https://finnworlds.com/finance-data/stock-and-company-identification-numbers-api/">Stock and company identification API</a> 
 is a useful tool that lets you pull stock ticker and company information from our database through JSON REST API and our databases are also downloadable as an excel or csv file.
