@@ -50,7 +50,7 @@ Our <a href="https://finnworlds.com/documentation">documentation</a> includes in
 
 
 
-<p>https://finnworlds.com/api/v1/identifiers?key=YOUR-KEY&stock_ticker_symbol=aapl</p>
+<p><a href="https://finnworlds.com/documentation">https://finnworlds.com/api/v1/identifiers?key=YOUR-KEY&stock_ticker_symbol=aapl</a></p>
 
 
 
